@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url("luxury.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    
+    
+}
+.top-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: black;
+    color:#fff;
+    opacity: 0.8;
+    width: 100%;
+}
+.from-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+    background-color: blue;
+    margin-top: 10px;
+
+}
+form {
+   padding: 30px; 
+}
+
+input[type=text],
+input[type=submit],
+input[type=email],
+textarea {
+background-color:rgb(255, 255, 255);
+color:black;
+width: 100%;
+padding: 8px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 24px;
+    margin-top: 10px;
+}
+h1{
+    font-size: 50px;
+}
+.contact-section{
+    width: 80%;
+    text-align: center;
+}
