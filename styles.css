@@ -67,17 +67,4 @@ h1{
     width: 80%;
     text-align: center;
 }
-a {
-  color:#faf2e4;
-    font-family: 'Montserrat', sans-serif;
-    margin: 10px 10px;
-    text-decoration: none;
-}
-a:hover{
-  color:#eaf6f6;
-}
-.copy-right{
-  color:#eaf6f6;
-  font-size: 0.75rem;
-  padding: 20px 0;
-}
+
